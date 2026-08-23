@@ -1,0 +1,7 @@
+[extension]
+id = "css_peek"
+name = "CSS Peek"
+version = "0.1.0"
+description = "Jump directly to CSS selector definitions from HTML classes and IDs"
+author = "biscuit-extensions"
+icon = "icon.png"
